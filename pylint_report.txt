@@ -1,0 +1,10 @@
+G:\Python_Programs\PythonWorkspace\demo\Scripts\pylint.exe distance_between_nodes
+************* Module distance_between_nodes.main
+main.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+************* Module distance_between_nodes.test.test_get_distance_between_nodes
+test\test_get_distance_between_nodes.py:61:0: C0304: Final newline missing (missing-final-newline)
+test\test_get_distance_between_nodes.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+test\test_get_distance_between_nodes.py:7:0: C0115: Missing class docstring (missing-class-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.32/10 (previous run: 9.46/10, -0.14)
